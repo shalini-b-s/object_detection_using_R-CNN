@@ -1,7 +1,5 @@
 Implementation of R-CNN Model for object detection from scratch.
 
-This is a project done by me and my project partner as a part of our certification course in Data Science from Corpnce technologies, Rajajinagar, Bangalore. 
-
 In object detection, we have to classify the objects in an image and also locate where these objects are present in the image. 
 
 There are two types of object detection networks: 
